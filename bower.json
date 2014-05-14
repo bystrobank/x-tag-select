@@ -1,0 +1,16 @@
+{
+  "name": "x-tag-select",
+  "description": "select",
+  "version": "0.0.1",
+  "keywords": [
+    "element",
+    "web-components",
+    "x-tag"
+  ],
+  "main": [
+    "src/select.js"
+  ],
+  "dependencies": {
+    "x-tag-core": "*"
+  }
+}

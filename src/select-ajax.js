@@ -1,6 +1,6 @@
 (function() {
 
-    xtag.register('x-select', {
+    xtag.register('select-ajax', {
         mixins: ["request"],
         lifecycle: {
             created: function() {

@@ -1,6 +1,6 @@
 {
-  "name": "x-tag-select",
-  "description": "select",
+  "name": "select-ajax",
+  "description": "select-ajax",
   "version": "0.0.1",
   "keywords": [
     "element",
@@ -8,7 +8,7 @@
     "x-tag"
   ],
   "main": [
-    "src/select.js"
+    "src/select-ajax.js"
   ],
   "dependencies": {
     "x-tag-core": "*"
